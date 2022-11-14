@@ -11,3 +11,5 @@ Step 2. Go to https://www.instafluff.tv/ChatBlocks/ select Load Blocks inorder t
 Step 3. Make sure to set the PokemonCommunityGame bot as a VIP
 
 Step 4. Have https://www.instafluff.tv/ChatBlocks/ running while you stream in order for everything to work.
+
+Step 5. !allspawns in order to display the list.
