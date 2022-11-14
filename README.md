@@ -1,8 +1,6 @@
 # PCG_SpawnList
 Chatblocks code for a PCG Spawn List
 
-There's a picture if you want to make it yourself. 
-In said picture there's indicators of where you can change what the chat message says without causing issues.
 If you want to increase or decrease the number of Spawns the bot keeps track just change the number 10 as required.
 
 
